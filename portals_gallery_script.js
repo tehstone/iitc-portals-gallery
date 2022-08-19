@@ -2,14 +2,14 @@
 // @id             portals-gallery@nerotu
 // @name           IITC plugin: Portals Gallery
 // @description    Creates the gallery of portals that can be used to solve the First Saturday passcode.
-// @author         Kofirs2634 aka Nerotu
+// @author         Kofirs2634 aka Nerotu, tehstone
 // @category       Info
 // @version        1.2
 // @match          https://intel.ingress.com/*
 // @grant          none
 
-// @downloadURL https://github.com/Kofirs2634/IITC-Portals-Gallery/raw/main/portals_gallery_script.js
-// @updateURL https://github.com/Kofirs2634/IITC-Portals-Gallery/raw/main/portals_gallery_script.js
+// @downloadURL https://github.com/tehstone/IITC-Portals-Gallery/raw/main/portals_gallery_script.user.js
+// @updateURL https://github.com/tehstone/IITC-Portals-Gallery/raw/main/portals_gallery_script.user.js
 // ==/UserScript==
 
 function wrapper(plugin_info) {
